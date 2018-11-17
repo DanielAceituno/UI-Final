@@ -45,3 +45,31 @@
 .button-group button:hover {
     background-color: #e69500;
 }
+
+.home-half{
+  width: 48%;
+}
+
+.home-half img{
+  max-width: 80%;
+  margin-left: 10%;
+  margin-top: 2%;
+  border-radius: 4px;
+}
+
+.home-half h2{
+  margin-left: 10%;
+}
+
+.home-half p{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#section-left{
+  float: left;
+}
+
+#section-right{
+  float: right;
+}
